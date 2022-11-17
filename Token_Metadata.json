@@ -2,5 +2,6 @@
   "name": "BrodTech Token",
   "symbol": "BROTEC",
   "description": "BrodTech Token",
-  "image": "https://raw.githubusercontent.com/tomislavcacic/btech/main/logo.png"
+  "image": "https://raw.githubusercontent.com/tomislavcacic/btech/main/logo.png",
+  "external_url":"https://brodtech.net"
 }
